@@ -1,0 +1,20 @@
+{
+  "name": "sveltify",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "spicetify-creator",
+    "build-local": "spicetify-creator --out=dist",
+    "watch": "spicetify-creator --watch"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/svelte": "^3.0.0",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6"
+  },
+  "dependencies": {
+    "spicetify-creator": "file:sveltify-creator/packages/spicetify-creator",
+    "svelte": "^3.49.0"
+  }
+}

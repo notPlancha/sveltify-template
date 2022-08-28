@@ -1,0 +1,3 @@
+[submodule "sveltify-creator"]
+	path = sveltify-creator
+	url = https://github.com/notPlancha/sveltify-creator.git
