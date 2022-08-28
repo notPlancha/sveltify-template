@@ -1,9 +1,9 @@
-# Spicetify Creator
+# Svelte + Spicetify Creator
 
-Spicetify Creator is a tool to compile modern Typescript/Javascript code to Spicetify extensions and custom apps.
+Sveltify Creator is a tool to compile modern Typescript/Javascript code to Spicetify extensions and custom apps, now with Svelte too
 
 ## Features
-- Typescript and React syntax
+- Typescript, React and Svelte syntax
 - Import node packages
 - CSS/SCSS with PostCSS support
 - Extremely fast compile time with esbuild.
