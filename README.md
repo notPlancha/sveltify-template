@@ -3,7 +3,7 @@
 Sveltify Creator is a tool to compile modern Typescript/Javascript code to Spicetify extensions and custom apps, now with Svelte too
 
 ## Get started
-To get started, use this tempalte, and clone the repo using  `git clone --recurse-submodules`
+To get started, use this template, and clone the repo using  `git clone --recurse-submodules <your repo>`
 
 ## Features
 - Typescript, React and Svelte syntax
