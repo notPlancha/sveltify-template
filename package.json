@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "sveltify-creator",
+    "build": "sveltify-creator && spicetify apply && spicetify enable-devtools",
     "build-local": "sveltify-creator --out=dist",
     "watch": "sveltify-creator --watch"
   },
