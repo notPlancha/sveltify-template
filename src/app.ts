@@ -14,5 +14,6 @@ async function main() {
     })
 }
 
+// noinspection JSUnusedGlobalSymbols
 export default main;
 

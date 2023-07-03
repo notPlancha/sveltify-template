@@ -8,13 +8,12 @@
     "watch": "sveltify-creator --watch"
   },
   "license": "MIT",
-  "devDependencies": {
-    "@tsconfig/svelte": "^3.0.0",
-    "@types/react": "^18.0.17",
-    "@types/react-dom": "^18.0.6"
-  },
   "dependencies": {
-    "svelte": "^3.49.0",
-    "sveltify-creator": "^1.0.1"
+    "@tsconfig/svelte": "^5.0.0",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "typescript": "^5.1.6",
+    "svelte": "^4.0.1",
+    "sveltify-creator": "^1.2.0"
   }
 }

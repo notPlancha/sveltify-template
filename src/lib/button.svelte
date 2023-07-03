@@ -3,8 +3,6 @@
     function handleClick() {
         Spicetify.showNotification("Hello from svelte!")
     }
-    let classes:string = document.getElementsByClassName("main-repeatButton-button")[0]
-        .children[0].classList.value
 </script>
 
 <style>
